@@ -1,13 +1,17 @@
-🏠 House Price Prediction System – End-to-End ML + MLOps
+🏠 House Price Prediction System ( ML + MLOps)
 
 This project is a production-grade House Price Prediction System built using Machine Learning, MLOps, and software engineering design patterns. Inspired by enterprise-level workflows, it covers everything from data ingestion, EDA, feature engineering, and model training, to CI/CD, pipeline orchestration, and experiment tracking.
 
 🛠 Tech Stack
 
-Core ML: Python, Pandas, NumPy, Scikit-learn
+Core ML:  Python Pandas, NumPy, Scikit-learn
+
 Visualization: Matplotlib, Seaborn
+
 MLOps: ZenML, MLflow
+
 Architecture: Factory Pattern, Strategy Pattern, Template Pattern
+
 Tools: VS Code / Jupyter, Git, CI/CD
 
 
@@ -23,41 +27,45 @@ The model predicts house prices based on multiple features while ensuring robust
 
 ✨ Key Features
 
-Advanced Data Ingestion System
+🔹 Advanced Data Ingestion System
 
-Factory Pattern to handle multiple data formats (ZIP, CSV, JSON, etc.)
+Factory Pattern to process multiple data formats (ZIP, CSV, JSON, etc.)
 
-Automated validation & error handling
+Automated data validation and error-handling pipelines
 
-Deep Exploratory Data Analysis (EDA)
+🔹 Deep Exploratory Data Analysis (EDA)
 
-Strategy Pattern for switching inspection methods
+Strategy Pattern for switching analysis methods dynamically
 
-Missing value heatmaps, distribution plots, multivariate analysis
+Missing value heatmaps, distribution plots, and multivariate analysis
 
-Feature Engineering & Model Development
+Insight-driven visualizations for better data understanding
 
-Outlier detection
+🔹 Model Development Workflow
 
-Handling skewness
+Outlier detection and skewness handling
 
-Encoding categorical variables
+Encoding categorical variables for model compatibility
 
-Algorithm assumptions checks
+Algorithm assumption checks for robust training
 
-MLOps Integration
+🔹 MLOps Integration
 
-ZenML pipelines for orchestration
+ZenML pipelines for orchestrating repeatable ML workflows
 
-MLflow for experiment tracking & deployment
+MLflow for experiment tracking, model registry, and deployment
 
-CI/CD for automated testing & production deployment
+CI/CD automation for testing, packaging, and production rollout
 
-Clean & Scalable Codebase
+🔹 Clean & Scalable Codebase
 
-Template Pattern-based workflows
+Template Pattern for structured, reusable workflow components
 
-Well-documented modules and reusable components
+Modular architecture with clear documentation
+
+Easily extendable for new features and model upgrades
+
+
 
 
 📁 Project Structure
