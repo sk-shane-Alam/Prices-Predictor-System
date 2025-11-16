@@ -149,10 +149,3 @@ project/
 * Supports market analysis and planning
 
 ---
-
-If you want, I can also generate:
-🔥 A **project abstract** for your resume
-🔥 A **one-page PDF project summary**
-🔥 A **LinkedIn post** to showcase this project
-
-Just tell me bro — I got you.
